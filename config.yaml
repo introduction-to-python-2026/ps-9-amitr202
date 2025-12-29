@@ -1,2 +1,2 @@
-path: ['mya_model.joblib']
+path: "mya_model.joblib"
 features: ['MDVP:Jitter(%)', 'MDVP:Fo(Hz)']
